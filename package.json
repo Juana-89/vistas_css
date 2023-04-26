@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Juana-89/vistas_css/issues"
   },
-  "homepage": "https://github.com/Juana-89/vistas_css#readme"
+  "homepage": "https://github.com/Juana-89/vistas_css#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }

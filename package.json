@@ -1,0 +1,19 @@
+{
+  "name": "vistas_css",
+  "version": "1.0.0",
+  "description": "prácticas de css",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juana-89/vistas_css.git"
+  },
+  "author": "Juana Llanje",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juana-89/vistas_css/issues"
+  },
+  "homepage": "https://github.com/Juana-89/vistas_css#readme"
+}
